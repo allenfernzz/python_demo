@@ -20,6 +20,7 @@ from django.views.generic.list import ListView
 from django.conf.urls import patterns,url 
 #from django.conf.urls.defaults import *
 from cookbook.views import current_datetime
-
+from cookbook.views import helloworld
 
 urlpatterns = patterns('', (r'^time/$', current_datetime), )
+urlpatterns += patterns('', (r'^hello/$', helloworld), )
