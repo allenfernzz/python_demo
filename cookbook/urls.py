@@ -18,10 +18,8 @@ from django.contrib import admin
 from django.views.generic.base import TemplateView
 from django.views.generic.list import ListView
 from django.conf.urls import patterns,url 
+#from django.conf.urls.defaults import *
+from cookbook.views import current_datetime
 
 
-urlpatterns = [
-    url(r'^admin/', include(admin.site.urls),name='admin-site'),
-
-
-]
+urlpatterns = patterns('', (r'^time/$', current_datetime), )
