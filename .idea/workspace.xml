@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dc7cec6-95db-4853-a3ee-adec6d1641b1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cookbook/urls.py" afterPath="$PROJECT_DIR$/cookbook/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cookbook/views.py" afterPath="$PROJECT_DIR$/cookbook/views.py" />
-    </list>
+    <list default="true" id="8dc7cec6-95db-4853-a3ee-adec6d1641b1" name="Default" comment="" />
     <ignored path="cookbook.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,7 +35,7 @@
       <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/polls/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="30" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="41" max-vertical-offset="442">
+            <state line="16" column="30" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="459">
               <folding />
             </state>
           </provider>
@@ -47,7 +44,7 @@
       <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cookbook/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="24" selection-start="1591" selection-end="1599" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="1853">
+            <state line="53" column="24" selection-start="1591" selection-end="1599" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1853">
               <folding />
             </state>
           </provider>
@@ -56,21 +53,37 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cookbook/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="25" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+            <state line="10" column="25" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cookbook/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="52" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#617#658#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cookbook/urls.py">
+      <file leaf-file-name="manage.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="52" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.7630923" vertical-offset="102" max-vertical-offset="527">
-              <folding>
-                <element signature="e#617#658#0" expanded="true" />
-              </folding>
+            <state line="10" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.08346972" vertical-offset="0" max-vertical-offset="611">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -321,12 +334,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25296736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -336,11 +349,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -362,6 +375,50 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="39" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="30" selection-start="494" selection-end="494" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="24" selection-start="1591" selection-end="1599" vertical-scroll-proportion="0.0" vertical-offset="901" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="25" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookbook/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="52" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="527">
+          <folding>
+            <element signature="e#617#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/polls/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="39" selection-start="507" selection-end="507" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -428,9 +485,7 @@
     <entry file="file://$PROJECT_DIR$/cookbook/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="25" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -450,10 +505,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cookbook/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="52" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.7630923" vertical-offset="102" max-vertical-offset="527">
+        <state line="24" column="52" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
           <folding>
             <element signature="e#617#658#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="63" selection-end="63" vertical-scroll-proportion="0.08346972" vertical-offset="0" max-vertical-offset="611">
+          <folding />
         </state>
       </provider>
     </entry>
